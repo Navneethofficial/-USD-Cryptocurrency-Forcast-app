@@ -2,13 +2,6 @@
 
 # 💰 Interactive LSTM Crypto Price Prediction Dashboard
 
-## 🎥 Demo
-
-Here’s a quick look at the system in action 👇
-
-![Demo](coins.gif)
-
-
 [![Python](https://img.shields.io/badge/python-3.12-blue?logo=python\&logoColor=white)](https://www.python.org/)[![Streamlit](https://img.shields.io/badge/streamlit-1.39-orange?logo=streamlit\&logoColor=white)](https://streamlit.io/)[![TensorFlow](https://img.shields.io/badge/tensorflow-2.19-red?logo=tensorflow\&logoColor=white)](https://www.tensorflow.org/)[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
@@ -53,18 +46,6 @@ Designed for **crypto enthusiasts, traders, and data science learners**, this ap
 * View **moving averages (MA7, MA30)**
 * Download **multi-day forecast as CSV**
 * Interactive charts using **Plotly**
-
----
-
-## 👨‍💻 About the Developer
-
-**Usama Munawar** – Data Scientist | MPhil Scholar | Machine Learning Enthusiast  
-Passionate about transforming raw data into meaningful insights and intelligent systems.  
-  
-🌍 Connect with me:      
-[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/UsamaMunawarr)[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abu--usama)[![YouTube](https://img.icons8.com/?size=50\&id=19318\&format=png)](https://www.youtube.com/@CodeBaseStats)[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09)[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO)
-
-💚 Thank you for using this app! Share it with your friends.
 
 ---
 
